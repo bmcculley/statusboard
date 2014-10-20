@@ -3,7 +3,8 @@
  * A very simple status board created in PHP.
  * Can check the status of a list of domains.
  *
- *
+ * Code, example usage information, and bugs/issues can be found/reported here
+ * https://github.com/bmcculley/statusboard
  *
  */
 require('config.php');
